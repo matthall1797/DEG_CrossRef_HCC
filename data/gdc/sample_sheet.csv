@@ -1,0 +1,11 @@
+sample,id,file
+TCGA-BC-A10X-01A ,e820ebb7-91de-45f6-b03d-f97fca659059,c8675707-b978-48d7-b510-186676ab831a.rna_seq.augmented_star_gene_counts.tsv
+TCGA-DD-A39W-01A,634cd164-4eb6-4bb5-baef-80d23bc02cfb,00e08404-4c50-4a1a-9036-0f0dd3988db8.rna_seq.augmented_star_gene_counts.tsv
+TCGA-EP-A12J-01A ,81d640c5-ad25-4f27-881d-83195de5116a,33e23705-397c-4651-beea-254110c365e4.rna_seq.augmented_star_gene_counts.tsv
+TCGA-G3-A3CH-01A ,922f342f-27af-4934-9760-79d7fa0f04ce,e92a1abd-e8c0-4591-ae3f-4679af48275e.rna_seq.augmented_star_gene_counts.tsv
+TCGA-ES-A2HT-01A ,a9dbf9fe-fef3-4cd7-9bb2-dcc26628566f,62b64fce-b9de-4151-bf56-d2ee50153e25.rna_seq.augmented_star_gene_counts.tsv
+TCGA-BC-A10X-11A,51c45ad0-3a73-4561-9a2c-7a4c00de52c5,d47d25be-4859-450a-a110-0e4bc7e2896b.rna_seq.augmented_star_gene_counts.tsv
+TCGA-DD-A39W-11A ,37de7b75-c885-44c8-9227-6600d37438df,c4d509c2-687f-42f2-a5a9-f92eb054ca39.rna_seq.augmented_star_gene_counts.tsv
+TCGA-EP-A12J-11A ,5180b82d-ce78-4d0f-8624-f7678732344b,6f8d77aa-5852-4467-8ef9-b7881294b969.rna_seq.augmented_star_gene_counts.tsv
+TCGA-G3-A3CH-11A ,3c077b2a-3a89-4f08-93fa-ecf50f1f7e73,a2cbad43-f7a6-4018-995f-82b22aa6fc8b.rna_seq.augmented_star_gene_counts.tsv
+TCGA-ES-A2HT-11A ,c610d382-879b-43ae-8a0d-7ca2a27f990d,0f370106-5023-4198-810b-63f84577269a.rna_seq.augmented_star_gene_counts.tsv

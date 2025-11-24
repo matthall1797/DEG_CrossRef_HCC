@@ -1,0 +1,12 @@
+name: bedtools
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bedtools
+  - gawk
+  - ucsc-liftover
+  - openssl=1.0
+  - python
+  - pandas
+  - pybedtools

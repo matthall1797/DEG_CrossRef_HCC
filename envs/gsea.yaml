@@ -1,0 +1,13 @@
+name: gsea
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas>=2.0
+  - numpy
+  - scipy
+  - gseapy
+  - pip
+
