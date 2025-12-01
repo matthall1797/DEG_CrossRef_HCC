@@ -6,3 +6,7 @@ data/enh_gene_links/cancer/cancer_genelinks_hg38.bed
 data/enh_gene_links/healthy/healthy_genelinks_hg38.bed
 data/chromatin_states/cancer/final_cancer_calls.bed
 data/chromatin_states/healthy/final_healthy_calls.bed
+
+# Local scripts and figures in root only
+/*.png
+/*.py
